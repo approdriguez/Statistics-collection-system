@@ -1,0 +1,13 @@
+# Testing
+
+# Client
+psutil==5.4.3
+pycrypto==2.6.1
+#only windows platforms pypiwin32
+
+
+# Server
+paramiko==2.0
+pycrypto==2.6.1
+mysql-connector-python==8.0.5
+#smtplib==20.12 already included
